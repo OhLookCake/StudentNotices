@@ -1,0 +1,26 @@
+"word" "freq"
+"student" "student" 165
+"technolog" "technology" 79
+"time" "time" 74
+"pleas" "please" 62
+"follow" "follow" 57
+"event" "event" 47
+"year" "year" 47
+"intern" "intern" 43
+"form" "form" 41
+"one" "one" 40
+"date" "date" 36
+"detail" "detail" 34
+"find" "find" 32
+"venu" "venue" 32
+"cell" "cell" 31
+"interest" "interest" 31
+"session" "session" 31
+"point" "point" 30
+"semest" "semester" 30
+"regist" "register" 28
+"women" "women" 28
+"request" "request" 27
+"award" "award" 26
+"campus" "campus" 26
+"candid" "candidate" 26

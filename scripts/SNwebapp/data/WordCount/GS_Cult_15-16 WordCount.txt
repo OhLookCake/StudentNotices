@@ -1,0 +1,27 @@
+"word" "freq"
+"art" "art" 150
+"everyon" "everyone" 114
+"time" "time" 107
+"student" "student" 100
+"event" "event" 95
+"venu" "venue" 87
+"pleas" "please" 86
+"danc" "dance" 85
+"detail" "detail" 85
+"class" "class" 80
+"best" "best" 79
+"council" "council" 78
+"film" "film" 78
+"contact" "contact" 72
+"invit" "invite" 71
+"date" "date" 68
+"websit" "website" 68
+"follow" "follow" 66
+"sac" "sac" 62
+"year" "year" 62
+"day" "day" 57
+"music" "music" 57
+"club" "club" 53
+"start" "start" 53
+"month" "month" 52
+"play" "play" 52
