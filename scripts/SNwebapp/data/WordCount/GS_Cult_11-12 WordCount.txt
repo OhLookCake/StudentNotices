@@ -1,0 +1,26 @@
+"word" "freq"
+"student" "student" 45
+"debat" "debate" 31
+"time" "time" 30
+"venu" "venue" 27
+"date" "date" 21
+"invit" "invite" 21
+"day" "day" 18
+"event" "event" 18
+"play" "play" 17
+"auditorium" "auditorium" 15
+"award" "award" 15
+"council" "council" 15
+"follow" "follow" 15
+"year" "year" 15
+"classic" "classic" 14
+"movi" "movie" 14
+"best" "best" 13
+"judg" "judge" 13
+"music" "music" 13
+"exhibit" "exhibition" 12
+"folk" "folk" 12
+"one" "one" 12
+"perform" "perform" 12
+"today" "today" 12
+"film" "film" 11

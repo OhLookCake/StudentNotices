@@ -1,0 +1,27 @@
+"word" "freq"
+"student" "student" 119
+"follow" "follow" 54
+"pleas" "please" 46
+"room" "room" 45
+"time" "time" 43
+"year" "year" 35
+"campus" "campus" 31
+"invit" "invite" 31
+"technolog" "technology" 29
+"one" "one" 27
+"venu" "venue" 27
+"inform" "inform" 26
+"donat" "donate" 25
+"help" "help" 25
+"council" "council" 24
+"work" "work" 24
+"relat" "relate" 23
+"session" "session" 23
+"form" "form" 22
+"import" "important" 22
+"peopl" "people" 20
+"alumni" "alumni" 19
+"detail" "detail" 19
+"regard" "regard" 19
+"contact" "contact" 18
+"make" "make" 18

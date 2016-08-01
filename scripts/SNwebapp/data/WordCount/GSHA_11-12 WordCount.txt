@@ -1,0 +1,26 @@
+"word" "freq"
+"student" "student" 87
+"pleas" "please" 53
+"elect" "elect" 51
+"candid" "candidate" 38
+"time" "time" 31
+"march" "march" 29
+"year" "year" 28
+"council" "council" 27
+"complaint" "complaint" 24
+"websit" "website" 22
+"hostel" "hostel" 21
+"link" "link" 21
+"overal" "overall" 18
+"venu" "venue" 18
+"post" "post" 17
+"materi" "material" 16
+"system" "system" 15
+"attach" "attach" 14
+"mail" "mail" 14
+"print" "print" 14
+"click" "click" 13
+"conduct" "conduct" 13
+"follow" "follow" 13
+"phase" "phase" 13
+"schedul" "schedule" 13
